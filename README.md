@@ -10,31 +10,48 @@
   </a>
 </p>
 
-<h1 align="center">Hey there! I'm Engineer Honest</h1>
-<h3 align="center">Full-Stack Software Engineer | MERN and Flask Developer | Mogadishu, Somalia</h3>
+<h1 align="center">Hey there! I'm Eng. Mohamed Ahmed Yusuf (Engineer Honest)</h1>
+<h3 align="center">Full-Stack and AI Engineer | MERN and Flask Developer | Mogadishu, Somalia</h3>
 
 <p align="left">
-I build web and mobile applications using two main stacks: MERN for modern JavaScript products, and Flask for Python-based backend systems. Most of my work is centered on ERP and SaaS platforms, especially products that involve accounting workflows, automation, and AI-powered features.
+I build web, mobile, and AI-powered applications. My main stacks are MERN/Next.js for JavaScript products and Flask for Python-based ERP systems.
+
+I started as a freelance developer at Taskplete ICT, and I still work there today on <b>infinitierp</b>, a large ERP system. I've built core modules like HRM, Attendance, Accounting, and Payroll, along with industry-specific ones for airlines, travel agencies, and education.
+
+I've also built an ERP/management system for Somali National University as a full-stack developer, and I mentor developers in Dugsiiye's Full-Stack and AI Engineering program.
 </p>
 
 ---
 
 ### Currently Learning
 
-- **Currently Learning:** Microservices, Docker, cloud fundamentals, and scalable system design.
-- **Improving In:** API design, authentication, database modeling, backend architecture, and distributed systems thinking.
+- **Currently Learning:** Multi-agent AI systems, cloud infrastructure at scale, and distributed system design.
+- **Improving In:** API design, authentication, database modeling, and backend architecture.
 
 ---
 
 ### What I Know
 
 - **MERN Stack:** React, Next.js, React Native, Node.js, Express, MongoDB, TypeScript, and Tailwind CSS.
-- **Flask Stack:** Flask, Jinja2, PostgreSQL, SQLAlchemy, and WTForms.
-- **Product Domain:** ERP systems, SaaS platforms, accounting modules, business workflows, and AI-assisted features.
-- **Focus Areas:** Backend development, database design, API development, cron jobs, and automated messaging flows.
-- **Ask Me About:** MERN applications, Flask backends, REST APIs, PostgreSQL, MongoDB, cron jobs, and notification workflows with email or WhatsApp.
-- **Open to Collaboration:** ERP systems, SaaS products, backend platforms, and full-stack applications built with React, Next.js, Flask, or PostgreSQL.
+- **Flask Stack:** Flask, Jinja2, PostgreSQL, SQLAlchemy, and Bootstrap.
+- **AI Engineering:** Vercel AI SDK, OpenAI API, Google Gemini, RAG pipelines, and background AI job orchestration (Inngest).
+- **Product Domain:** ERP systems, election/voting platforms, fintech apps, and AI-assisted products.
+- **Focus Areas:** Backend development, database design, REST APIs, background jobs (Celery), and notification/payment integrations (WhatsApp, SMS, email, WaafiPay).
+- **Ask Me About:** MERN applications, Flask/ERP backends, REST APIs, PostgreSQL, MongoDB, and AI-powered app development.
+- **Open to Collaboration:** ERP systems, SaaS products, and full-stack or AI-powered applications built with React, Next.js, Flask, or PostgreSQL.
 - **Reach Me:** **injineerdaacad@gmail.com**
+
+---
+
+### Featured Projects
+
+- 🗳️ **[Online Voting System](https://github.com/injineerdaacad/online-voting-system)** — 3-part election platform (web dashboard, mobile app, API) with a live AI election assistant and real-time results
+- 💰 **Personal Finance Tracker** — Full-stack money-tracking app (React, Node.js, Express, MongoDB) with JWT auth and Swagger-documented API
+- 🚌 **Somali Intercity Transport System (SITS)** — Bus booking platform with role-based dashboards, built on React and Supabase
+- 🐄 **Livestock Doctor** — RAG-based AI chatbot that helps identify livestock diseases and connects farmers with vets
+- 💬 **AI Chat App** — ChatGPT-style app with persistent history and streamed Markdown/diagram/math replies
+- 🤖 **AI Research Pipeline** — Background AI research workflows orchestrated with Inngest and Google Gemini
+- ✈️ **AMS, TAMS & EDU** — Core infinitierp modules for airline management, travel agencies, and education (admissions, exams, results)
 
 ---
 
@@ -58,7 +75,9 @@ I build web and mobile applications using two main stacks: MERN for modern JavaS
   <h4 align="left">Databases & DevOps:</h4>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+  <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+  <a href="https://nginx.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/></a>
 </p>
