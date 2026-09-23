@@ -46,9 +46,9 @@ I've also built an ERP/management system for Somali National University as a ful
 ### Featured Projects
 
 - 🗳️ **[Online Voting System](https://github.com/injineerdaacad/online-voting-system)** — 3-part election platform (web dashboard, mobile app, API) with a live AI election assistant and real-time results
-- 🚌 **Somali Intercity Transport System (SITS)** — Bus booking platform with role-based dashboards, built on React and Supabase
-- 🐄 **Livestock Doctor** — RAG-based AI chatbot that helps identify livestock diseases and connects farmers with vets
-- 🛒 **Shopping Price Comparison Agent** — 6-agent pipeline (search, verify, match, normalize, rank) that finds real sellers and prices instead of letting the model guess, built with Inngest Agent Kit
+- 🚌 **[Somali Intercity Transport System (SITS)](https://github.com/injineerdaacad/sits)** — Bus booking platform with role-based dashboards, built on React and Supabase
+- 🐄 **[Livestock Doctor](https://github.com/injineerdaacad/livestock-doctor)** — RAG-based AI chatbot that helps identify livestock diseases and connects farmers with vets
+- 🛒 **[Shopping Price Comparison Agent](https://github.com/injineerdaacad/price-agent)** — 6-agent pipeline (search, verify, match, normalize, rank) that finds real sellers and prices instead of letting the model guess, built with Inngest Agent Kit
 - ✈️ **AMS — Airline Management System** — Flight scheduling, aircraft/airport data, ticket bookings and sales, including a mobile booking channel
 - 🧳 **TAMS — Travel Agency Management System** — Ticketing, visa processing, flight manifests, and cargo bookings for travel agencies
 - 🎓 **EDU — Education Management System** — Admissions portal, fees, exams, grading scales, and certificates
