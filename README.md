@@ -11,7 +11,7 @@
 </p>
 
 <h1 align="center">Hey there! I'm Eng. Mohamed Ahmed Yusuf (Engineer Honest)</h1>
-<h3 align="center">Full-Stack and AI Engineer | MERN and Flask Developer | Mogadishu, Somalia</h3>
+<h3 align="center">Full-Stack, AI & DevOps Engineer | Mogadishu, Somalia</h3>
 
 <p align="left">
 I build web, mobile, and AI-powered applications. My main stacks are MERN/Next.js for JavaScript products and Flask for Python-based ERP systems.
@@ -34,7 +34,7 @@ I've also built an ERP/management system for Somali National University as a ful
 
 - **MERN Stack:** React, Next.js, React Native, Node.js, Express, MongoDB, TypeScript, and Tailwind CSS.
 - **Flask Stack:** Flask, Jinja2, PostgreSQL, SQLAlchemy, and Bootstrap.
-- **AI Engineering:** Vercel AI SDK, OpenAI API, Google Gemini, RAG pipelines, and background AI job orchestration (Inngest).
+- **AI Engineering:** Vercel AI SDK, OpenAI API, RAG pipelines, and background AI job orchestration (Inngest).
 - **Product Domain:** ERP systems, election/voting platforms, fintech apps, and AI-assisted products.
 - **Focus Areas:** Backend development, database design, REST APIs, background jobs (Celery), and notification/payment integrations (WhatsApp, SMS, email, WaafiPay).
 - **Ask Me About:** MERN applications, Flask/ERP backends, REST APIs, PostgreSQL, MongoDB, and AI-powered app development.
@@ -46,12 +46,12 @@ I've also built an ERP/management system for Somali National University as a ful
 ### Featured Projects
 
 - 🗳️ **[Online Voting System](https://github.com/injineerdaacad/online-voting-system)** — 3-part election platform (web dashboard, mobile app, API) with a live AI election assistant and real-time results
-- 💰 **Personal Finance Tracker** — Full-stack money-tracking app (React, Node.js, Express, MongoDB) with JWT auth and Swagger-documented API
 - 🚌 **Somali Intercity Transport System (SITS)** — Bus booking platform with role-based dashboards, built on React and Supabase
 - 🐄 **Livestock Doctor** — RAG-based AI chatbot that helps identify livestock diseases and connects farmers with vets
-- 💬 **AI Chat App** — ChatGPT-style app with persistent history and streamed Markdown/diagram/math replies
-- 🤖 **AI Research Pipeline** — Background AI research workflows orchestrated with Inngest and Google Gemini
-- ✈️ **AMS, TAMS & EDU** — Core infinitierp modules for airline management, travel agencies, and education (admissions, exams, results)
+- 🛒 **Shopping Price Comparison Agent** — 6-agent pipeline (search, verify, match, normalize, rank) that finds real sellers and prices instead of letting the model guess, built with Inngest Agent Kit
+- ✈️ **AMS — Airline Management System** — Flight scheduling, aircraft/airport data, ticket bookings and sales, including a mobile booking channel
+- 🧳 **TAMS — Travel Agency Management System** — Ticketing, visa processing, flight manifests, and cargo bookings for travel agencies
+- 🎓 **EDU — Education Management System** — Admissions portal, fees, exams, grading scales, and certificates
 
 ---
 
