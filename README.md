@@ -32,7 +32,7 @@ Worked on the university's ERP and management system across the front end, back 
 
 ## Projects
 
-- **[Online Voting System](https://github.com/injineerdaacad/online-voting-system):** an election platform for SNU with an admin dashboard, a student mobile app and a shared API. Real-time results over Socket.IO and an AI election assistant.
+- **[Online Voting System](https://github.com/injineerdaacad/online-voting-system):** an election platform for SNU with an admin dashboard, a student mobile app and a shared API. Real-time results over Socket.IO and an AI election assistant. Live: [admin dashboard](https://ovs.kalsooni.com) · [student app](https://vote.kalsooni.com).
 - **[SITS](https://github.com/injineerdaacad/sits):** the Somali Intercity Transport System, a bus booking platform for routes, passengers and cargo, with three role-based dashboards. React and Supabase.
 - **[Livestock Doctor](https://github.com/injineerdaacad/livestock-doctor):** a RAG chatbot that gives farmers livestock health guidance and points them to nearby vets. Next.js and TypeScript.
 - **[Price Agent](https://github.com/injineerdaacad/price-agent):** a price comparison agent with a six-stage pipeline (understand, search, verify, match, normalise, rank) that finds real sellers and prices instead of letting the model guess. Inngest AgentKit.
