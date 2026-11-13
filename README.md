@@ -28,7 +28,7 @@ InfinitiERP is a Flask and PostgreSQL ERP used by airlines, travel agencies, edu
 
 **Somali National University** · Software development intern, ICT Software Section · Feb 2026 – Aug 2026
 
-Under supervision, helped develop, test, maintain and document the university's software systems: features and bug fixes, REST APIs and PostgreSQL, Git and GitHub, and routine Linux and Contabo deployment checks.
+Worked under supervision on the university's education system (Flask and PostgreSQL), with more than 100 commits. My main work was the result-approval workflow, so each faculty can approve and publish only its own students' results.
 
 ## Projects
 
