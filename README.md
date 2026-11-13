@@ -19,7 +19,7 @@ Planned stack: Next.js, TypeScript, PostgreSQL with one database per tenant, Pri
 
 **Taskplete ICT** · Full-stack developer on InfinitiERP · May 2025 – present
 
-InfinitiERP is a Flask and PostgreSQL ERP used by airlines, travel agencies, education institutions and other businesses. I joined as an intern in May 2025, worked full-time from November 2025 to October 2026, and still work with Taskplete remotely. About 1,600 commits across 11 of its repositories.
+InfinitiERP is a Flask and PostgreSQL ERP used by airlines, travel agencies, education institutions and other businesses. I joined as an intern in May 2025, worked full-time from November 2025 to October 2026, and still work with Taskplete remotely. More than 2,000 commits across 11 of its repositories.
 
 - **AMS (airline):** main developer. Flight schedules, fares, bookings, ticket printing, refunds and flight manifests, plus a versioned REST API for the mobile booking app.
 - **TAMS (travel agency):** main developer. Ticketing, visa processing, flight manifests, cargo with Somali-language WhatsApp updates, and sales and purchase invoices.
