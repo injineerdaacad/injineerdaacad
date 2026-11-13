@@ -26,14 +26,14 @@ InfinitiERP is a Flask and PostgreSQL ERP used by airlines, travel agencies, edu
 - **EDU (education):** built most of it. Public admission portal, fees and receipts, result uploads, transcripts, numbered certificates and clearance cards.
 - **Shared core:** accounting, HR and attendance, reports, REST APIs with Swagger docs, the WaafiPay integration, security (2FA/OTP, rate limiting, reCAPTCHA, audit logs, IP blocking), backups and deployment scripts.
 
-**Somali National University** · Full-stack developer (ICT intern) · Feb 2026 – Jul 2026
+**Somali National University** · Software development intern, ICT Software Section · Feb 2026 – Aug 2026
 
-Worked on the university's ERP and management system across the front end, back end and database.
+Under supervision, helped develop, test, maintain and document the university's software systems: features and bug fixes, REST APIs and PostgreSQL, Git and GitHub, and routine Linux and Contabo deployment checks.
 
 ## Projects
 
 - **[Online Voting System](https://github.com/injineerdaacad/online-voting-system):** an election platform for SNU with an admin dashboard, a student mobile app and a shared API. Real-time results over Socket.IO and an AI election assistant. Live: [admin dashboard](https://ovs.kalsooni.com) · [student app](https://vote.kalsooni.com).
-- **[SITS](https://github.com/injineerdaacad/sits):** the Somali Intercity Transport System, a bus booking platform for routes, passengers and cargo, with three role-based dashboards. React and Supabase.
+- **[SITS](https://github.com/injineerdaacad/sits):** the Somali Intercity Transport System, a bus booking platform for routes, passengers and cargo, with three role-based dashboards and Row Level Security. React and Supabase. Live at [sits.kalsooni.com](https://sits.kalsooni.com).
 - **[Livestock Doctor](https://github.com/injineerdaacad/livestock-doctor):** a RAG chatbot that gives farmers livestock health guidance and points them to nearby vets. Next.js and TypeScript.
 - **[Price Agent](https://github.com/injineerdaacad/price-agent):** a price comparison agent with a six-stage pipeline (understand, search, verify, match, normalise, rank) that finds real sellers and prices instead of letting the model guess. Inngest AgentKit.
 
@@ -44,7 +44,7 @@ Worked on the university's ERP and management system across the front end, back 
 - **Databases:** PostgreSQL, MongoDB, Redis, Supabase
 - **AI:** Vercel AI SDK with OpenAI and Gemini, RAG, Inngest AgentKit, Claude Code
 - **Security:** 2FA/OTP, rate limiting, reCAPTCHA, audit logs, IP blocking
-- **DevOps:** Linux, Docker, Nginx, Git, OpenTofu, cloud-init, Ansible, Railway, Vercel
+- **DevOps:** Linux, Contabo, Docker, Nginx, Git, OpenTofu, cloud-init, Ansible, Railway, Vercel
 - **Integrations:** WaafiPay, WhatsApp, SMS, email
 
 ## Education
